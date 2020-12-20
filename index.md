@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+#              
 
-You can use the [editor on GitHub](https://github.com/nickwang6/Writer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+​      尊敬的领导、老师，亲爱的同学们：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+​       大家晚上好！ 我是王铭鑫，很荣幸有机会在这里代表主席团发言，说句实话，在演讲上我还是怯场的，希望给点掌声鼓励 。好，谢谢。
 
-### Markdown
+​       进入学生会一年以来，根据自己的经验总结出一个公式：你的高度=你的价值+平台的高度，所谓你的价值就是你现在的能力，而平台的高度就是学生会这个平台，在这个平台上你可以结交足够优秀的人，潜移默化下你的高度也在不断的提高。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+​       因此我有以下几点建议，同时也是在提醒我自己。
 
-```markdown
-Syntax highlighted code block
+​       第一，先做人，后做事，并在大学里尽可能结交朋友。
 
-# Header 1
-## Header 2
-### Header 3
+​       第二，找到学业和学生会的平衡点，学会处理学习和学生会工作的关系。
 
-- Bulleted
-- List
+​       第三，及时向上反映工作进展情况，也就是汇报工作。
 
-1. Numbered
-2. List
+​       第四，学会沟通和交流，学生会是一个团队，一个好的团队需要不断的沟通、交流，去磨合去配合。
 
-**Bold** and _Italic_ and `Code` text
+​       第五，将自己的知识体系打造完整 。
 
-[Link](url) and ![Image](src)
-```
+​        要交到好的朋友首先你得会做人，并且做一个让人放心的人，在困难的时候，朋友会帮助你，另外，交朋友尽可能结交比你更加出色的人，他们会在你成长的道路上帮助你。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+​       可能招新面试时候你们会被问到这样一个问题，当你的学习和学生会工作冲突了，你会优先选择哪一个？
 
-### Jekyll Themes
+​       我的解答是，学习可以课后找时间弥补，但学生会工作没去做了就很难补了，并且一般情况下，除了特殊情况，学生会的事务是不占用上课的时间的。所以要找到学业和学生会的平衡，处理好两者的关系。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickwang6/Writer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+​       一个会做事的人是不需要上级最后询问事情的进展如何，而是事中已经交流并且完成了工作。在学生会工作上，临时变换的事情会很多，需要和上级或者领导及时交流并解决问题。
 
-### Support or Contact
+​       完整的知识体系的打造需要不断优化自己的学习方法，在学习上我采用学习-分享-再学习的模式，尽可能在同样时间内获取更完整的知识，知识这东西并不是我们学到就立马用上了，而是有时候不轻易间它就有可能很好解决了某件事情。拿一件很小的事情来说，就去年十月中旬，我的一个高中比较好的女同学给我发微信，xxx是她的生日，然后我直男性问了一句：你要什么？ 然后就没有回复的信息，我想，完蛋了。当时觉得，这年代送礼物真难，买礼物又显得实用性不高，买了又压箱，不买吧就显得抠门。当时在苦想，突发想起了HTML课程，不妨可以送份网页礼物，这肯定用心啊，虽然课程才没教授多久，但我网上找资源，对着视频自学，最终做了份简陋的HTML网页礼物，最后她很感动，我就幸运的保留下这个高中同学。我也感谢她，从那时开始，我就不断的做网页礼物，到现在个人网站的集成。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+​        现在的我，只不过是过去的结果。我和你们一样，进入大学以来会出现迷茫。说句实话，迷茫并不可怕，可怕是一直的迷茫，短期的迷茫会让我们看清现今自己的现状，因此我们要找到方法进行调整，重新出发！
+
+​        
+
